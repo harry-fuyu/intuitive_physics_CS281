@@ -6,3 +6,6 @@ The zip file contains 200 partial trajectories generated from partial_trajectory
 
 Will's latent space extrapolation in TF can be found in the following link:
 https://drive.google.com/file/d/1BMQD4VYNjkOYGeQzl30mx9me3xRZibMx/view?usp=sharing
+
+recon_img.zip contains reconstructions from naive loss function AE. Including loss fn plot.
+rnn_AE.py is the corresponding script.
