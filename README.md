@@ -11,3 +11,10 @@ guided_recon.zip contains reconstructions from loss with guidance from true para
 rnn_AE.py is the script where loss is naive.
 
 guided.py is the script where loss is guided by true parameters.
+
+
+Update:
+
+sliced_VAE.py is the script for RNN-VAE.
+Its reconstruction images are contained in the folder VAE.
+Comparison between reconstrucion using true parameters and original trajectories are in the folder "compare"
